@@ -7,7 +7,8 @@ Swagger UI allows anyone â€” be it your development team or your end consumers â
 implementation and client side consumption.
 
 For the integration between spring-boot and swagger-ui, add the library to the list of your project dependencies (No additional configuration is needed)
-````
+
+```
 <dependency>
       <groupId>org.springdoc</groupId>
       <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
